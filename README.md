@@ -5,3 +5,6 @@ t is aimed to collect points by clicking on photos that change places randomly i
 
 SCREEN RECORDING
 
+https://user-images.githubusercontent.com/97003033/236623112-7c3c8c99-e868-49fc-bb88-86e6a3c0cbae.mp4
+
+
