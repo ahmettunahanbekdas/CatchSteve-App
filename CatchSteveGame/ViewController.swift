@@ -102,7 +102,7 @@ class ViewController: UIViewController {
         timeLabel.text = String(counter)
         print(counter)
         if counter == 0 {
-            print("Time Over")
+            print("Time OverR")
             print("Hello World")
             timer.invalidate()
             hideTimer.invalidate()
