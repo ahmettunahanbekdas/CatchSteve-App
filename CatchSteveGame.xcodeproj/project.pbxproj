@@ -13,7 +13,7 @@
 		0EBB55CB2A067525006E710F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBB55C92A067525006E710F /* Main.storyboard */; };
 		0EBB55CD2A067525006E710F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EBB55CC2A067525006E710F /* Assets.xcassets */; };
 		0EBB55D02A067525006E710F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EBB55CE2A067525006E710F /* LaunchScreen.storyboard */; };
-		0EBB55D82A0675A4006E710F /* zyro-image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EBB55D72A0675A4006E710F /* zyro-image.png */; };
+		0EBB55DA2A06794B006E710F /* zyro-image.png in Resources */ = {isa = PBXBuildFile; fileRef = 0EBB55D92A06794B006E710F /* zyro-image.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		0EBB55CC2A067525006E710F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EBB55CF2A067525006E710F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EBB55D12A067525006E710F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0EBB55D72A0675A4006E710F /* zyro-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "zyro-image.png"; path = "../../../../Desktop/zyro-image.png"; sourceTree = "<group>"; };
+		0EBB55D92A06794B006E710F /* zyro-image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "zyro-image.png"; path = "CatchSteveİmages/zyro-image.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 		0EBB55C22A067524006E710F /* CatchSteveGame */ = {
 			isa = PBXGroup;
 			children = (
-				0EBB55D72A0675A4006E710F /* zyro-image.png */,
+				0EBB55D92A06794B006E710F /* zyro-image.png */,
 				0EBB55C32A067525006E710F /* AppDelegate.swift */,
 				0EBB55C52A067525006E710F /* SceneDelegate.swift */,
 				0EBB55C72A067525006E710F /* ViewController.swift */,
@@ -129,9 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EBB55D02A067525006E710F /* LaunchScreen.storyboard in Resources */,
-				0EBB55D82A0675A4006E710F /* zyro-image.png in Resources */,
 				0EBB55CD2A067525006E710F /* Assets.xcassets in Resources */,
 				0EBB55CB2A067525006E710F /* Main.storyboard in Resources */,
+				0EBB55DA2A06794B006E710F /* zyro-image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
