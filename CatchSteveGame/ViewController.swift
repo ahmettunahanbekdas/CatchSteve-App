@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
+    
     var timer = Timer()
     var hideTimer = Timer()
     var counter = 0
