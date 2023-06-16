@@ -17,7 +17,6 @@ class ViewController: UIViewController {
     var steveArray = [UIImageView]()
     
     
-    
     @IBOutlet weak var timeLabel: UILabel!
     @IBOutlet weak var scoreLabel: UILabel!
     @IBOutlet weak var highScoreLabel: UILabel!
